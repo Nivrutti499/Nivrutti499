@@ -47,12 +47,8 @@
 ## 🐍 GitHub Contribution Snake
 
 > ⚙️ Make sure to set up GitHub Actions for this to work  
-Add this image after generating it:
 ```md
 ![snake gif](https://github.com/nivruttichaudhari/nivruttichaudhari/blob/output/github-contribution-grid-snake.svg)
-
-
----
 
 ## 📫 Connect with Me
 - 📧 Email: [chaudharinivrutti@gmail.com](mailto:chaudharinivrutti@gmail.com)  

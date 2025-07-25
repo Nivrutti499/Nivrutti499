@@ -32,6 +32,28 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nivruttichaudhari&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nivruttichaudhari&theme=tokyonight" alt="GitHub Streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivruttichaudhari&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+> ⚙️ Make sure to set up GitHub Actions for this to work  
+Add this image after generating it:
+```md
+![snake gif](https://github.com/nivruttichaudhari/nivruttichaudhari/blob/output/github-contribution-grid-snake.svg)
+
+
+---
+
 ## 📫 Connect with Me
 - 📧 Email: [chaudharinivrutti@gmail.com](mailto:chaudharinivrutti@gmail.com)  
 - 🔗 GitHub: [github.com/nivruttichaudhari](https://github.com/nivruttichaudhari)  

@@ -33,6 +33,6 @@
 ---
 
 ## 📫 Connect with Me
-- 📧 Email: nivruttichaudhari54@gmail.com](mailto:chaudharinivrutti@gmail.com)  
+- 📧 Email: nivruttichaudhari54@gmail.com]  
 - 🔗 GitHub: [github.com/nivruttichaudhari](https://github.com/nivruttichaudhari)  
 - 🔗 LinkedIn: [linkedin.com/in/nivruttichaudhari](https://linkedin.com/in/nivruttichaudhari)

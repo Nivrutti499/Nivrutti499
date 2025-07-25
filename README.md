@@ -32,28 +32,6 @@
 
 ---
 
-## 📁 Recent Projects
-
-- 🚀 [My Personal Portfolio](https://github.com/nivruttichaudhari/my-portfolio) — Modern developer portfolio with animation and dark mode  
-- 🔐 [Login Authentication App](https://github.com/nivruttichaudhari/login-auth-app) — Secure login system with backend  
-- 🌍 [Weather Web App](https://github.com/nivruttichaudhari/weather-app) — Real-time weather with API integration  
-
-> *(Update these links and project names with your actual repos)*
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nivruttichaudhari&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nivruttichaudhari&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivruttichaudhari&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📈 Visitor Counter
 
 <p align="center">

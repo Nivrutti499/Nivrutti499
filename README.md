@@ -44,6 +44,6 @@
 
 <p align="left">
   <a href="nivruttichaudhari54@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/nivruttichaudhari/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/nivruttichaudhari"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nivruttichaudhari/"><img src="https://www.linkedin.com/in/nivrutti-chaudhari-00b2a0284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" /></a>
+  <a href="https://github.com/nivruttichaudhari"><img src="https://github.com/Nivrutti499" /></a>
 </p>

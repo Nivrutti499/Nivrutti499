@@ -9,71 +9,30 @@
 
 ## 👨‍🎓 About Me  
 🎓 I'm pursuing **B.E. in Electronics & Telecommunication** at **Sinhgad College of Engineering, Pune**  
-🌐 I enjoy developing **web applications** that solve real-world problems  
-💡 Passionate about learning **modern tech stacks** and enhancing my coding skills  
-🌱 Currently learning **new technologies** and exploring **open source contributions**
+🌐 I love developing **web applications** to solve real-world problems  
+💡 I'm always eager to explore **new technologies** and sharpen my problem-solving skills  
+🌱 Passionate about **Open Source Projects** and **Backend Development**
 
 ---
 
-## 🛠️ Tech Stack & Tools  
-`HTML5` · `CSS3` · `JavaScript` · `React.js` · `Java` · `Python` · `Git` · `GitHub` · `C++` · `MySQL`
+## 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
-## 📄 index.html
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Nivrutti Chaudhari | Web Developer</title>
-  <canvas id="stars"></canvas>
-  <link rel="stylesheet" href="style.css" />
-  <link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet">
-</head>
-<body>
-  <div class="container">
-    <h1>Hi 👋, I'm Nivrutti Chaudhari</h1>
-    <h2>B.E. ENTC Student | Web Developer | Tech Explorer</h2>
-    <div class="typing-container">
-      <span id="typed-text"></span>
-    </div>
-
-    <section class="about">
-      <h3>👨‍🎓 About Me</h3>
-      <ul>
-        <li>🎓 I'm pursuing <strong>B.E. in Electronics & Telecommunication</strong> at Sinhgad College of Engineering, Pune.</li>
-        <li>🌐 I enjoy developing <strong>web applications</strong> that solve real-world problems.</li>
-        <li>💡 Always exploring <strong>new technologies</strong> and improving my development skills.</li>
-        <li>🌱 Currently learning <strong>New Technologies</strong>.</li>
-      </ul>
-    </section>
-
-    <section class="stack">
-      <h3>🛠️ Tech Stack & Tools</h3>
-      <div class="stack-list">
-        <span>HTML5</span>
-        <span>CSS3</span>
-        <span>JavaScript</span>
-        <span>React.js</span>
-        <span>Java</span>
-        <span>Python</span>
-        <span>Git</span>
-        <span>GitHub</span>
-        <span>C++</span>
-        <span>MySQL</span>
-      </div>
-    </section>
-
-    <section class="contact">
-      <h3>📫 Connect With Me</h3>
-      <p>📧 Email: <a href="mailto:chaudharinivrutti@gmail.com">chaudharinivrutti@gmail.com</a></p>
-      <p>🔗 GitHub: <a href="https://github.com/nivruttichaudhari" target="_blank">github.com/nivruttichaudhari</a></p>
-      <p>🔗 LinkedIn: <a href="https://linkedin.com/in/nivruttichaudhari" target="_blank">linkedin.com/in/nivruttichaudhari</a></p>
-    </section>
-  </div>
-
-  <script src="script.js"></script>
-</body>
-</html>
+## 📫 Connect with Me
+- 📧 Email: [chaudharinivrutti@gmail.com](mailto:chaudharinivrutti@gmail.com)  
+- 🔗 GitHub: [github.com/nivruttichaudhari](https://github.com/nivruttichaudhari)  
+- 🔗 LinkedIn: [linkedin.com/in/nivruttichaudhari](https://linkedin.com/in/nivruttichaudhari)

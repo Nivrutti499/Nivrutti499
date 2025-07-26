@@ -37,6 +37,17 @@
 
 ---
 
+### ⏱️ Live Date & Weather
+
+<p align="center">
+  🕒 <strong>Current Time (IST):</strong> <code id="current-time">Loading...</code><br/>
+  🌤️ <strong>Pune Weather:</strong> <code id="weather">Updating...</code>
+</p>
+
+_Last updated: `<!--TIMESTAMP-->`_
+
+---
+
 ### 📈 Visitor Counter
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=nivrutti499&label=Profile%20views&color=0e75b6&style=flat" alt="nivrutti499" />
@@ -45,6 +56,15 @@
 ---
 
 ### 📫 Let's Connect
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nivrutti-chaudhari)
-- 💼 [Portfolio](https://your-portfolio-link.com)
-- 📧 Email: youremail@example.com
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nivrutti-chaudhari" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/nivrutti499" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+  <a href="mailto:nivruttichaudhari26@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</p>

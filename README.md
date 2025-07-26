@@ -12,7 +12,6 @@
 ---
 
 ### 🛠️ Tech Stack & Tools
-<!-- You can customize icons from https://github.com/Ileriayo/markdown-badges -->
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
@@ -28,19 +27,19 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nivrutt499&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nivruttichaudhari&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nivrutti499&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nivrutti499&theme=tokyonight" width="47%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivruttichaudhari&layout=compact&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivrutti499&layout=compact&theme=tokyonight" width="47%" />
 </p>
 
 ---
 
 ### 📈 Visitor Counter
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nivruttichaudhari&label=Profile%20views&color=0e75b6&style=flat" alt="nivruttichaudhari" />
+  <img src="https://komarev.com/ghpvc/?username=nivrutti499&label=Profile%20views&color=0e75b6&style=flat" alt="nivrutti499" />
 </p>
 
 ---

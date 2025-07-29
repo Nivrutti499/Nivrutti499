@@ -38,14 +38,16 @@
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats (including synced LeetCode activity)
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nivrutti499&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nivrutti499&show_icons=true&count_private=true&theme=tokyonight" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=nivrutti499&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nivrutti499&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivrutti499&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 

@@ -2,7 +2,7 @@
 <h3 align="center">🚀 B.E. ENTC Student | 🌐 Web Developer | 🔍 Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00FFB3&center=true&vCenter=true&width=435&lines=Passionate+about+Web+Development;Loves+Solving+Real+World+Problems;Electronics+%26+Telecommunication+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00FFB3&center=true&vCenter=true&width=435&lines=Passionate+about+Web+Development;Loves+Solving+Real+World+Problems;E&TC+%26+Student" alt="Typing SVG" />
 </p>
 
 ---

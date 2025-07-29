@@ -2,13 +2,13 @@
 <h3 align="center">🚀 B.E. ENTC Student | 🌐 Web Developer | 🔍 Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00FFB3&center=true&vCenter=true&width=435&lines=Passionate+about+Web+Development;Loves+Solving+Real+World+Problems;E&TC+%26+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00FFB3&center=true&vCenter=true&width=435&lines=Passionate+about+Web+Development;Loves+Solving+Real+World+Problems;ENTC+Student" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍🎓 About Me  
-🎓 I'm pursuing *B.E. in Electronics & Telecommunication* at *Sinhgad College of Engineering, Pune*  
+🎓 I'm pursuing *B.E. in ENTC* at *Sinhgad College of Engineering, Pune*  
 🌐 I love to develop *web applications* that solve real-world problems  
 💡 I'm always eager to learn new technologies and sharpen my development skills  
 🌱 Actively learning & contributing to *Open Source* and *Backend Development*  
@@ -36,7 +36,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nivrutti499&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=nivrutti499&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nivrutti499&theme=tokyonight" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivrutti499&layout=compact&theme=tokyonight" />
 </p>

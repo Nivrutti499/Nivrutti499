@@ -30,12 +30,13 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nivrutti499&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://streak-stats.demolab.com?user=nivrutti499&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nivrutti499&theme=tokyonight" width="47%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivrutti499&layout=compact&theme=tokyonight" width="47%" />
 </p>
+
 
 
 

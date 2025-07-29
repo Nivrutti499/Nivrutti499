@@ -10,6 +10,7 @@
 - 🌱 Actively learning & contributing to Open Source and Backend Dev  
 
 ---
+
 ### 🛠️ Tech Stack & Tools
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
@@ -24,12 +25,13 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/vscode-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+---
 
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nivrutti499&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nivrutti499&theme=tokyonight" width="47%" />
+  <img src="https://streak-stats.demolab.com?user=nivrutti499&theme=tokyonight" width="47%" />
 </p>
 
 <p align="center">
@@ -48,7 +50,7 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nivrutti-chaudhari-00b2a0284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"_blank">
+  <a href="https://www.linkedin.com/in/nivrutti-chaudhari-00b2a0284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:nivruttichaudhri54@gmail.com">

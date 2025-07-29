@@ -57,7 +57,7 @@
   <a href="mailto:nivruttichaudhri54@gmail.com" target="blank">
     <img align="center" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
   </a>
-  <a href="https://nivrutti499.github.io" target="_blank">
+  <a href="https://github.com/Nivrutti499" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </p>

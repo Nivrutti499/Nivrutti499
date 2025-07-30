@@ -37,15 +37,13 @@
 
 ---
 
-## 📊 GitHub Stats (including synced LeetCode activity)
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nivrutti499&show_icons=true&count_private=true&theme=tokyonight" />
-  <br/>
-<img src="https://streak-stats.demolab.com/?user=nivrutti499&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivrutti499&layout=compact&theme=tokyonight" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nivrutti499&theme=tokyonight&hide_border=false)](https://github.com/nivrutti499)
+
+[![Nivrutti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nivrutti499&show_icons=true&theme=tokyonight&hide_border=false)](https://github.com/nivrutti499)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nivrutti499&layout=compact&theme=tokyonight&hide_border=false)](https://github.com/nivrutti499)
 
 
 ---

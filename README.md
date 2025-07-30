@@ -39,12 +39,17 @@
 
 ## 📊 GitHub Stats
 
+<!-- 🔥 GitHub Streak (might show "fetch error" if API is down) -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nivrutti499&theme=tokyonight&hide_border=false)](https://github.com/nivrutti499)
 
+<!-- 📈 Main GitHub Stats -->
 [![Nivrutti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nivrutti499&show_icons=true&theme=tokyonight&hide_border=false)](https://github.com/nivrutti499)
 
+<!-- 🧠 Most Used Languages -->
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nivrutti499&layout=compact&theme=tokyonight&hide_border=false)](https://github.com/nivrutti499)
 
+<!-- ⛔ Optional fallback message if streak fails -->
+> ⚠️ *If the streak card above shows "Failed to fetch" — it’s a GitHub API issue. It’ll fix itself automatically in a few hours.*
 
 ---
 
